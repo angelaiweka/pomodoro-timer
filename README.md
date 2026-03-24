@@ -1,2 +1,2 @@
-# study-tracker
-Python CLI tool for tracking study sessions, managing course topics, monitoring exam countdowns, and organizing study notes
+# pomodoro-timer
+Python Pomodoro timer with Spotify integration, AI-powered break suggestions, and study session tracking
